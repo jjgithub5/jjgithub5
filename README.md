@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... javascript
+- 🔭 I’m currently working on ... an application to score the Italian card game, Scopa
+- 🌱 I’m currently learning ... java, CSS, HTML, javascript, and more!
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi! My name is JJ and I am a new software developer. 
-🌱 I’m currently learning JavaScript. 
+🌱 I’m currently learning Java. 
